@@ -1,71 +1,37 @@
-# ⚽ NWSL-LFG
+# 👋 Hi, I'm Erica Rios (@xicanista)
 
-**The NWSL deserves cutting-edge fan engagement tech.**
+I'm an entrepreneurial product builder passionate about helping companies translate bold ideas into technically sound, user-centered products.
 
-**NWSL-LFG** is a backend AI-powered personalization platform that helps National Women’s Soccer League (NWSL) fans engage more deeply with content, find matches to attend, and buy merch they love — driven by real-time behavioral analytics, recommendation systems, and generative AI.
-
-Built as a 90-day project focused on building real-time analytics pipelines and intelligent recommendation systems — with a Phase 2 plan for full frontend integration and deployment.
+After leading product growth across marketplaces, ecommerce, and consumer tech, I'm now pivoting closer to technical execution — building with Python, APIs, databases, and real-time data systems — because I want to help create the future, not just define it.
 
 ---
 
-## 🚀 What It Does
-- 📊 Tracks user behavior across content, merch, and match engagement
-- 🎯 Recommends games, articles, and products based on user interests
-- 🧠 Uses GPT to generate personalized blurbs and ticket invites
+## 🚀 Current Projects
+- [NWSL-LFG](https://github.com/xicanista/NWSL-LFG) — A fan engagement platform for the National Women’s Soccer League, combining real-time behavioral analytics, recommendation systems, and generative AI.
+
+I'm particularly excited about applying AI and data-driven techniques — such as personalization, recommendation engines, and real-time analytics — to build the next generation of intelligent, user-centered products.
 
 ---
 
-## 🛠️ Tech Stack
-- **Python** — Primary language
-- **SQLite or PostgreSQL** — Relational database for user and match data
-- **NumPy or Scikit-learn** — Clustering and content-based recommendation models
-- **OpenAI GPT API** — Dynamic content generation
-- **ASA API (itscalledsoccer)** — Live NWSL match and team data ingestion
-- **Flask or FastAPI** — Backend API framework
+## 🛠️ Technical Focus Areas
+- Python Development, APIs, Data Engineering
+- Flask and FastAPI for lightweight web applications
+- Machine Learning Fundamentals and Generative AI Applications
+- Real-Time Behavioral Analytics and Personalization Engines
+- A/B Testing Frameworks and User Segmentation Systems
 
 ---
 
-## 📅 Current Status (Phase 1: Backend MVP)
-
-| Feature | Status |
-|:--------|:-------|
-| Data ingestion from ASA API | ⏳ In Progress |
-| User behavior tracking API | ⏳ Not started |
-| Recommendation engine (MVP) | ⏳ Not started |
-| GPT integration for content generation | ⏳ Not started |
-| Backend MVP launch | ⏳ Not started |
-| Frontend UI | 🔜 Phase 2 |
-| Full launch | 🔜 Phase 2 |
+## 🎯 Interests
+- AI-driven product innovation
+- Real-time data products and behavioral analytics
+- Data governance, quality, and scalable experimentation
+- Human-centered AI experiences
 
 ---
 
-## 🌟 Why This Project Matters
+## 🤝 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+- [Portfolio (Coming Soon)](https://ericarios.com)
 
-- Helps fans feel seen with personalized content and smart recommendations
-- Drives ticket and merch sales through intelligent user engagement
-- Showcases how LLMs (like GPT) and ML techniques can elevate sports marketing in a responsible, data-driven way
 
----
-
-## 🔮 Next Up (Phase 2)
-- Frontend UI (React.js or Streamlit)
-- Backend + Frontend Deployment (Heroku or AWS)
-- Real-time behavioral analytics dashboards
-- A/B testing for recommendation strategies
-
----
-
-## 🙋‍♀️ About Me
-
-I'm Erica Rios — an entrepreneurial product builder passionate about bridging strategy, execution, and AI innovation.
-
-I'm currently building projects that combine real-time data, AI techniques, and user-centered design to deliver the next generation of intelligent products.
-
-- 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/ericarios)
-- 🌐 [More about me at ericarios.com](https://ericarios.com)
-
----
-
-## 📬 Feedback Welcome
-
-Whether you're an NWSL fan, an engineer, or a recruiter — I'd love your thoughts, feature ideas, or code reviews!
